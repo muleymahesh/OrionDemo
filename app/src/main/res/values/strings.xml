@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrionDemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_a_to_z">Sort by A-Z</string>
+    <string name="action_z_to_a">Sort by Z-A</string>
+    <string name="snackbar_network_error_text">No Connection</string>
+    <string name="snackbar_network_error_action_text">Retry</string>
+    <string name="username">USERNAME</string>
+    <string name="phone">PHONE</string>
+    <string name="address">ADDRESS</string>
+    <string name="website">WEBSITE</string>
+    <string name="company">COMPANY</string>
+
+</resources>
